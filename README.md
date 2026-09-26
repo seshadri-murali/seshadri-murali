@@ -1,5 +1,5 @@
 👋 Hi, I’m @seshadri-murali
-- 👀 I’m interested and currently learning Fullstack, DevOps and Cloud!
+- 👀 At full scale shipping AI Products + Scalable System
 - 📫 Say Hi! seshadrijr@gmail.com
 
 <!---
